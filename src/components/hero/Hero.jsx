@@ -111,14 +111,14 @@ skills and a dedication to continuous learning            </p>
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
-                <img
+                {/* <img
                   className=" w-[135px] md:w-[90px] circle-text"
                   src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
                   alt=""
-                />
-                <FaPlay
+                /> */}
+                {/* <FaPlay
                   className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
-                />
+                /> */}
               </div>
             </div>
           </div>
