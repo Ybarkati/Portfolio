@@ -13,7 +13,7 @@ import resumePDF from "../../assets/Resume.pdf";
 
 const Hero = () => {
   return (
-    <div id="home" className={` bg-gradient-to-r from-gray-100 via-blue-100 to-blue-500 `}>
+    <div id="home" className={` bg-gradient-to-r from-gray-400 via-gray-500 to-gray-700 `}>
       <div className=" container mx-auto pt-5 h-[750px] md:h-[100vh] md:flex-col-reverse sm:h-[780px]  flex sm:flex-col-reverse sm:pt-0 ">
         <div className=" left mt-4 md:mt-0 flex-1 flex flex-col justify-center gap-5 w-1/2 md:w-full md:py-2 sm:py-0">
           <div className="info w-fit flex flex-col items-start justify-center gap-3 sm:gap-2">
@@ -39,7 +39,7 @@ const Hero = () => {
             />
             <p
               // data-aos="fade-up"
-              className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
+              className=" text-[1.1rem] text-slate-200 font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
 Innovative Software Engineer with a passion for building cutting-edge solutions. Proficient in multiple 
 programming languages and experienced in full-stack development. Committed to delivering high-quality code, 
@@ -105,7 +105,7 @@ skills and a dedication to continuous learning            </p>
             <img
             data-aos="fade-up"
               className=" h-[90%] rounded-3xl  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='https://i.postimg.cc/B6MgF33f/1683839588005-removebg-preview-fotor-20230818121354.png'
+              src='https://i.postimg.cc/3xL7N3bP/myPicc.png'
               // src={mine}
               alt="mine"
             />
