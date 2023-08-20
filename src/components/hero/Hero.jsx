@@ -105,7 +105,7 @@ skills and a dedication to continuous learning            </p>
             <img
             data-aos="fade-up"
               className=" h-[90%] rounded-3xl  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='https://i.postimg.cc/3xL7N3bP/myPicc.png'
+              src='https://i.postimg.cc/jj8MPsWN/Picsart-23-08-19-20-11-46-270.png'
               // src={mine}
               alt="mine"
             />
