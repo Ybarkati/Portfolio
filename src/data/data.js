@@ -15,7 +15,13 @@ export const data = [
     title: "MyLibrary",
     link: "https://glistening-hummingbird-ff9dc3.netlify.app/",
     git: "https://github.com/Ybarkati/ProjectMod2",
-  },
+  },{
+    id: 3,
+    img: 'https://i.postimg.cc/sD3HQvkh/Design-sans-titre-1.png',
+    title: "SwiftLearn",
+    link: "https://swiftlearn-web-about.onrender.com/",
+    git: "https://github.com/Ybarkati/MOD3PROJECT-SWIFTLEARN",
+  }
   
   
 ];
